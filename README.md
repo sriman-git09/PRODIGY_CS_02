@@ -10,7 +10,7 @@ The tool allows users to:
 - Encrypt the image using a numeric key
 - Decrypt the image using the same key
 
-This project was created as part of **Prodigy Infotech – Task 02** to understand the fundamentals of **image processing and basic cryptographic concepts**.
+
 
 ---
 
